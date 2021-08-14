@@ -1,0 +1,4 @@
+1. npm i --save express, mongoouse
+2. ejs
+3. nodemon
+4. mongoouse
